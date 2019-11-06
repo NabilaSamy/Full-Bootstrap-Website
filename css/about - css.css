@@ -1,0 +1,16 @@
+.breadcrumb{
+	margin-bottom: 0;
+	background-color: #F5F5F5;
+}
+
+.about hr{width: 70%;}
+
+.about_features{padding: 0 0 70px;}
+
+.about_features h3, .about_ceo h2{font-weight: bold; letter-spacing: 1.5px;}
+
+.about_features p{margin-bottom: 20px; font-size: 18px;}
+
+.about_ceo{background-color: #EEE; padding: 40px 0 20px;}
+
+.about_ceo p{margin-bottom: 20px; font-size: 18px;}

@@ -1,0 +1,9 @@
+/* Start Default Theme */
+
+.navbar-dark .navbar-brand:hover, .navbar-dark .navbar-brand:focus{color: #BBB;}
+
+.optionBox .color-option, .price_table .price_box:hover p{border: 2px solid #BBB;}
+
+.optionBox .gear-check{background-color: #BBB;}
+
+/* End Default Theme */
